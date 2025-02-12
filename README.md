@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoan/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@_devAnRicardo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ricardoan/)
 
 ### <h2> Sobre mim? </h2>
 ### <p style='font-size:15px'>Bom desde criança sempre fui apaixano pelos computadores, na primeira oportunidade estava em cima de um computador mexendo, e o pior, sempre queimando-os de tanto mecher. Sempre tive paixão pela área em especifico a programação de computadores. Começei mexendo em um código pela primeira vez quando queria fazer alterações em um jogo famoso, chamado POINT BLANK, de lá pra cá não larguei mais os códigos.</p>
