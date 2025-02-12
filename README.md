@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ricardoan/)
 
 ### <h2> Sobre mim? </h2>
-### <p style='font-size:15px'>Bom desde criança sempre fui apaixano pelos computadores, na primeira oportunidade estava em cima de um computador mexendo, e o pior, sempre queimando-os de tanto mecher. Sempre tive paixão pela área em especifico a programação de computadores e hoje estou aqui dedicando boa parte do meu tempo livre para aprender cada vez mais.</p>
+### <p style='font-size:15px'>Bom desde criança sempre fui apaixano pelos computadores, na primeira oportunidade estava em cima de um computador mexendo, e o pior, sempre queimando-os de tanto mecher. Sempre tive paixão pela área em especifico a programação de computadores. Começei mexendo em um código pela primeira vez quando queria fazer alterações em um jogo famoso, chamado POINT BLANK, de lá pra cá não larguei mais os códigos.</p>
 
 ### <h2>Informações sobre mim</h2>
 ### <ol> 
