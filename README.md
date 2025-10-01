@@ -6,15 +6,15 @@
 
 
 ### <h2> Sobre mim? </h2>
-### <p style='font-size:15px'>Bom desde criança sempre fui apaixano pelos computadores, na primeira oportunidade estava em cima de um computador mexendo, e o pior, sempre queimando-os de tanto mecher. Sempre tive paixão pela área em especifico a programação de computadores. Começei mexendo em um código pela primeira vez quando queria fazer alterações em um jogo famoso, chamado "POINT BLANK", de lá pra cá não larguei mais os códigos.</p>
+### <p style='font-size:15px'>Estudante da Ciências da Computação, interessado em tudo que envolve tecnologia. Apesar de ainda não ter atuado profissionalmente, desenvolvo alguns projetos pessoais como FullStack nas minhas aplicações. Estou aberto sempre a melhoria constante e também sempre disposto a ajudar em tudo que posso.</p>
 
 ### <h2>Informações sobre mim</h2>
 ### <ol> 
 <li>Nome: Ricardo Antikiveski. </li>
-<li>Idade: 24 Anos. </li>
+<li>Idade: 25 Anos. </li>
 <li>Residente: Novo Hamburgo, RS. </li>
-<li>Cursando: Ciências da Computação - 1° Semestre.</li>
-<li>Linguagem: C++, C#, Html/CSS. </li>
+<li>Cursando: Ciências da Computação - 3° Semestre.</li>
+<li>FullStack: Rust | JavaScript | PostgreSQL | MySQL | Docker  </li>
 </ol>
 
 ###
