@@ -1,12 +1,4 @@
 # <h1 style="color:#87CEEB">Ricardo Antikieveski</h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoan/) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RCardin) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antikieveski.ricardo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=about.me&logoColor=white)](https://ricardo-antikieveski.netlify.app)
-
----
-
 ## Sobre mim
 <p style="font-size:15px">
 Estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvimento de software. Desenvolvo projetos FullStack e busco aprendizado constante, sempre disposto a colaborar e compartilhar conhecimento.
@@ -26,6 +18,8 @@ Estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvime
 ## 🛠 Tecnologias e Skills
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,8 +34,8 @@ Estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvime
 - [**RagX Engine**](https://github.com/Ricardo-Antikieveski/ragx_engine)  
   Engine de jogos independente em C++, com foco em performance e modularidade.
 
-- [**Portfolio**](https://ricardo-antikieveski.netlify.app)  
-  Meu site pessoal com projetos, blog e contatos.
+- [**WhatsApp-Bot**](https://github.com/Ricardo-Antikieveski/Whatsapp-Bot)  
+  Um bot modular para WhatsApp, integrando Node.js e Rust com comunicação assíncrona via JSON. (OBS: Inacabado)
 
 ---
 
