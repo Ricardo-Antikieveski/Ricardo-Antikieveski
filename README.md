@@ -1,7 +1,8 @@
 # <h1 style="color:#87CEEB">Ricardo Antikieveski</h1>
 ## Sobre mim
 <p style="font-size:15px">
-Estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvimento de software. Desenvolvo projetos FullStack e busco aprendizado constante, sempre disposto a colaborar e compartilhar conhecimento.
+Natural de Braço do Norte – SC, sempre fui apaixonado pela computação. Desde pequeno, era fascinado por eletrônica; meu passatempo, muitas vezes, era mexer nos componentes do computador, do som, dos DVDs etc.
+Aos 16 anos, descobri a programação e tudo o que ela poderia me proporcionar. Entrei de cabeça — e não larguei mais.
 </p>
 
 ---
@@ -11,18 +12,14 @@ Estudante de Ciências da Computação, apaixonado por tecnologia e desenvolvime
 - **Idade:** 25 anos  
 - **Localização:** Novo Hamburgo, RS  
 - **Curso:** Ciências da Computação - 3° Semestre  
-- **Stack:** Rust | JavaScript | PostgreSQL | MySQL | Docker  
+- **Stack:** Rust | C# .Net | C++
 
 ---
 
 ## 🛠 Tecnologias e Skills
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
