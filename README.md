@@ -12,7 +12,7 @@ Aos 16 anos, descobri a programação e tudo o que ela poderia me proporcionar. 
 - **Idade:** 25 anos  
 - **Localização:** Novo Hamburgo, RS  
 - **Curso:** Ciências da Computação - 3° Semestre  
-- **Stack:** Rust | C# .Net | C++
+- **Stack:** Rust | C# ( .Net Core/Framework) | C++
 
 ---
 
