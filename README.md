@@ -1,8 +1,8 @@
 # <h1 style="color:#87CEEB">Ricardo Antikieveski</h1>
 ## Sobre mim
 <p style="font-size:15px">
-Natural de Braço do Norte – SC, sempre fui apaixonado pela computação. Desde pequeno, era fascinado por eletrônica; meu passatempo, muitas vezes, era mexer nos componentes do computador, do som, dos DVDs etc.
-Aos 16 anos, descobri a programação e tudo o que ela poderia me proporcionar. Entrei de cabeça — e não larguei mais.
+Sou natural de Braço do Norte – SC e sempre fui curioso com tecnologia. Quando era mais novo, gostava de mexer com eletrônica e entender como as coisas funcionavam.
+Aos 16 anos, conheci a programação — Desde então, venho estudando e praticando constantemente, buscando evoluir como desenvolvedor e criar soluções.
 </p>
 
 ---
