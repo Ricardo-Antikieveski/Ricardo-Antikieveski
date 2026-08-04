@@ -25,7 +25,7 @@ Aos 16 anos, conheci a programação — Desde então, venho estudando e pratica
 
 ## 🚀 Projetos em destaque
 
-- [**OpenHelp**]([https://github.com/Ricardo-Antikieveski/devhelper-cli](https://github.com/Ricardo-Antikieveski/OpenHelp)
+- [**OpenHelp**](https://github.com/Ricardo-Antikieveski/OpenHelp)
   Plataforma de Help Desk com integração de IA, focada em automatizar o atendimento de suporte, gerenciar tickets e oferecer respostas inteligentes com base em dados e contexto.
 
 - [**RagX Engine**](https://github.com/Ricardo-Antikieveski/ragx_engine)  
