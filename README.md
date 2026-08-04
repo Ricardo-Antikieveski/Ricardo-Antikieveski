@@ -25,8 +25,8 @@ Aos 16 anos, conheci a programação — Desde então, venho estudando e pratica
 
 ## 🚀 Projetos em destaque
 
-- [**DevHelper CLI**](https://github.com/Ricardo-Antikieveski/devhelper-cli)  
-  Ferramenta CLI para automatizar tarefas do dia a dia de devs. Desenvolvido em Node.js.
+- [**OpenHelp**]([https://github.com/Ricardo-Antikieveski/devhelper-cli](https://github.com/Ricardo-Antikieveski/OpenHelp))  
+  Plataforma de Help Desk com integração de IA, focada em automatizar o atendimento de suporte, gerenciar tickets e oferecer respostas inteligentes com base em dados e contexto.
 
 - [**RagX Engine**](https://github.com/Ricardo-Antikieveski/ragx_engine)  
   Engine de jogos independente em C++, com foco em performance e modularidade.
