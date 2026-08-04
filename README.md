@@ -37,7 +37,7 @@ Aos 16 anos, conheci a programação — Desde então, venho estudando e pratica
 ---
 
 ## 📈 Últimas contribuições
-- Desenvolvimento de funcionalidades novas no DevHelper CLI  
+- Inicio do projeto OpenHelp 
 - Otimizações de performance na RagX Engine  
 - Participação em projetos open-source em Rust e Node.js  
 
