@@ -9,7 +9,7 @@ Aos 16 anos, conheci a programação — Desde então, venho estudando e pratica
 
 ## Informações
 - **Nome:** Ricardo Antikieveski  
-- **Idade:** 25 anos  
+- **Idade:** 26 anos  
 - **Localização:** Novo Hamburgo, RS  
 - **Curso:** Ciências da Computação - 3° Semestre  
 - **Stack:** Rust | C# ( .Net Core/Framework) | C++
