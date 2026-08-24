@@ -12,13 +12,13 @@ Aos 16 anos, conheci a programação — Desde então, venho estudando e pratica
 - **Idade:** 26 anos  
 - **Localização:** Novo Hamburgo, RS  
 - **Curso:** Ciências da Computação - 3° Semestre  
-- **Stack:** Rust | C# ( .Net Core/Framework) | C++
+- **Stack:** C# ( .Net Core/Framework)| Rust | C++
 
 ---
 
 ## 🛠 Tecnologias e Skills
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
@@ -46,4 +46,4 @@ Aos 16 anos, conheci a programação — Desde então, venho estudando e pratica
 ## 💬 Contato
 Sinta-se à vontade para me enviar mensagem, conectar no LinkedIn ou acompanhar meus projetos e vídeos:
 
-[LinkedIn](https://www.linkedin.com/in/ricardoan/) | [YouTube](https://www.youtube.com/@RCardin) | [Gmail](mailto:antikieveski.ricardo@gmail.com) | [Portfolio](https://ricardo-antikieveski.netlify.app)
+[LinkedIn](https://www.linkedin.com/in/ricardoan/) | [YouTube](https://www.youtube.com/@AnRicardoOficial) | [Gmail](mailto:antikieveski.ricardo@gmail.com)
